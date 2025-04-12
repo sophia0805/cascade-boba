@@ -1,0 +1,13 @@
+img {
+    width: 50%;
+    height: 20%;
+    position: flex;
+}
+
+p {
+    font-size: 200px;
+}
+
+body {
+    background-color: #ffdddd;
+}
